@@ -1,2 +1,3 @@
-# kalkylator-ellalin10
-Kalkylator – Ella Lindqvist
+# Kalkylator
+
+Ella Lindqvist
